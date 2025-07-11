@@ -18,7 +18,7 @@ A modern, animated, and responsive To-Do List web app built using **HTML**, **CS
 ## 📂 Project Structure
 
 ```bash
-├── index5.html         # Main HTML file with embedded CSS + JS
+├── index.html         # Main HTML file with embedded CSS + JS
 ├── README.md           # Project documentation (this file)
 ```
 
