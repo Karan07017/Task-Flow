@@ -11,7 +11,7 @@ A modern, animated, and responsive To-Do List web app built using **HTML**, **CS
 - 📆 Due date selection  
 - 💾 LocalStorage support (tasks saved even after refresh)  
 - 🎨 Glowing cards, animated outlines, and dark mode look  
-- 🌓 (Dark theme by default – inspired by CodeHelp’s aesthetic)
+- 🌓 (Dark theme by default)
 
 ---
 
