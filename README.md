@@ -45,7 +45,7 @@ A modern, animated, and responsive To-Do List web app built using **HTML**, **CS
 ```bash
 git clone https://github.com/Karan07017/Task-Flow.git
 cd Task-Flow
-# Open index5.html in your browser
+# Open index.html in your browser
 ```
 ---
 
